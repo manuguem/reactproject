@@ -1,0 +1,31 @@
+.center {
+  display: block;
+  justify-content: center;
+  text-align: center !important;
+}
+
+.center button {
+  border: none;
+  outline: none;
+  background: #333;
+  border-radius: 0.8rem;
+  color: white;
+  width: 5rem;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 0.2rem;
+}
+
+@media only screen and (max-width: 650px) {
+  .center button {
+    border: none;
+    outline: none;
+    background: #333;
+    border-radius: 0.8rem;
+    color: white;
+    width: 5rem;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 0.2rem;
+  }
+}

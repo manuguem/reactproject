@@ -1,0 +1,21 @@
+.div {
+  display: block;
+  justify-content: center;
+  text-align: center !important;
+}
+
+.div h3 {
+  text-align: center;
+}
+
+.div button {
+  border: none;
+  outline: none;
+  background: #333;
+  border-radius: 0.2rem;
+  color: white;
+  width: 10rem;
+  height: 40px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
